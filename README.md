@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Imran Jaleel</h1>
 <h3 align="center">"Passionately engineering tomorrow's digital landscape."</h3>
-<img align ="right" alt="coder" width="400"  src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<img align ="right" alt="coder" width="200"  src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelout31&label=Profile%20views&color=0e75b6&style=flat" alt="thelout31" /> </p>
 
 <br>
