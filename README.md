@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **App and full stack Web development**
+- 🔭 I’m currently working on **App and MERN stack development**
 
 - 🌱 I’m currently learning **React and Backend related technology**
 
