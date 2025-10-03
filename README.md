@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/thelout31/count.svg" />
+ <img src="https://komarev.com/ghpvc/?username=thelout31&label=Profile%20views&color=0e75b6&style=flat" alt="thelout31" />
 </p>
